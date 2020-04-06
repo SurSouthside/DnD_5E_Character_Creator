@@ -1,3 +1,52 @@
 <resources>
     <string name="app_name">DnD_5E_Character_Creator</string>
+
+    <!--Buttons-->
+    <string name="new_character">New Character</string>
+
+    <!--labels-->
+    <string name="select_race">Select Your Character\'s Race</string>
+    <string name="select_subrace">Select Your Character\'s Subrace</string>
+
+    <!--Races-->
+    <string name="dragonborn">Dragonborn</string>
+    <string name="dwarf">Dwarf</string>
+    <string name="elf">Elf</string>
+    <string name="gnome">Gnome</string>
+    <string name="halfling">Halfling</string>
+    <string name="half_elf">Half-Elf</string>
+    <string name="half_orc">Half-Orc</string>
+    <string name="human">Human</string>
+    <string name="tiefling">Tiefling</string>
+
+    <!--Dwarf Subraces-->
+    <string name="hill_dwarf">Hill Dwarf</string>
+    <string name="mountain_dwarf">Mountain Dwarf</string>
+
+    <!--Elf Subraces-->
+    <string name="dark_elf">Dark Elf(Drow)</string>
+    <string name="high_elf">High Elf</string>
+    <string name="wood_elf">Wood Elf</string>
+
+    <!--Gnome Subraces-->
+    <string name="forest_gnome">Forest Gnome</string>
+    <string name="rock_gnome">Rock Gnome</string>
+
+    <!--Halfling Subraces-->
+    <string name="lightfoot_halfing">Lightfoot Halfling</string>
+    <string name="stout_halfling">Stout Halfling</string>
+
+    <!--Races for Spinner-->
+    <string-array name="races_array">
+        <item>Dragonborn</item>
+        <item>Dwarf</item>
+        <item>Elf</item>
+        <item>Gnome</item>
+        <item>Halfling</item>
+        <item>Half-Elf</item>
+        <item>Half-Orc</item>
+        <item>Human</item>
+        <item>Tiefling</item>
+    </string-array>
+
 </resources>
